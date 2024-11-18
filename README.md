@@ -55,4 +55,4 @@ command.
  * `cdk diff`        compare deployed stack with current state
  * `cdk docs`        open CDK documentation
 
-Enjoy!
+![alt text](<Screenshot from 2024-11-18 09-51-55.png>)

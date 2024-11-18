@@ -55,4 +55,26 @@ command.
  * `cdk diff`        compare deployed stack with current state
  * `cdk docs`        open CDK documentation
 
+## Lab Process Screen shots
+1. synthesizing CloudFormation template
+![alt text](<Screenshot from 2024-11-18 09-33-25.png>)
+![alt text](<Screenshot from 2024-11-18 09-33-43.png>)
+
+2. deploying for the s3 bucket
+![alt text](<Screenshot from 2024-11-18 09-35-30.png>)
+![alt text](<Screenshot from 2024-11-18 09-37-04.png>)
+![alt text](<Screenshot from 2024-11-18 09-39-07.png>)
+
+3. added the remaining functions (ec2 and vpc) and synthesizing them
+![alt text](<Screenshot from 2024-11-18 09-51-06.png>)
 ![alt text](<Screenshot from 2024-11-18 09-51-55.png>)
+![alt text](<Screenshot from 2024-11-18 09-53-07.png>)
+![alt text](<Screenshot from 2024-11-18 09-53-23.png>)
+
+4. deploying all (ec3,vpc and s3)
+![alt text](<Screenshot from 2024-11-18 09-54-41.png>)
+![alt text](<Screenshot from 2024-11-18 09-54-56.png>)
+![alt text](<Screenshot from 2024-11-18 09-55-17.png>)
+
+5. deployment completed 
+![alt text](<Screenshot from 2024-11-18 09-59-30.png>)
